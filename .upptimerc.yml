@@ -11,7 +11,7 @@ sites:
     url: $DEV_URL
 
 status-website:
-  themeUrl: https://cdn.jsdelivr.net/gh/W-R-C/upptime@master/assets/main.css
+  theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
