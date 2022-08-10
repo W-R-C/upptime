@@ -5,10 +5,13 @@ repo: upptime # The name of this repository
 sites:
   - name: Portfolio Website
     url: $PORTFOLIO_URL
+    icon: $PORTFOLIO_FAVICON
   - name: Store Website
     url: $STORE_URL
+    icon: $STORE_FAVICON
   - name: Developer Website
     url: $DEV_URL
+    icon: $DEV_FAVICON
 
 status-website:
   faviconSvg: https://upptime.js.org/img/icon.svg
