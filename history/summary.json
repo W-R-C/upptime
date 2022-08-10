@@ -2,7 +2,7 @@
   {
     "name": "Portfolio Website",
     "url": "$PORTFOLIO_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "$PORTFOLIO_FAVICON",
     "slug": "portfolio-website",
     "status": "up",
     "uptime": "100.00%",
@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 268,
-    "timeWeek": 268,
-    "timeMonth": 268,
-    "timeYear": 268,
+    "time": 269,
+    "timeDay": 269,
+    "timeWeek": 269,
+    "timeMonth": 269,
+    "timeYear": 269,
     "dailyMinutesDown": {}
   },
   {
     "name": "Store Website",
     "url": "$STORE_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "$STORE_FAVICON",
     "slug": "store-website",
     "status": "up",
     "uptime": "100.00%",
@@ -38,7 +38,7 @@
   {
     "name": "Developer Website",
     "url": "$DEV_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "$DEV_FAVICON",
     "slug": "developer-website",
     "status": "up",
     "uptime": "100.00%",
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 320,
-    "timeWeek": 320,
-    "timeMonth": 320,
-    "timeYear": 320,
+    "time": 333,
+    "timeDay": 333,
+    "timeWeek": 333,
+    "timeMonth": 333,
+    "timeYear": 333,
     "dailyMinutesDown": {}
   }
 ]
