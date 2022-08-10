@@ -18,7 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Uptime
   introTitle: "**Webpage Uptime**"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/w-r-c/upptime).
 
