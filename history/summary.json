@@ -4,53 +4,59 @@
     "url": "$PORTFOLIO_URL",
     "icon": "$PORTFOLIO_FAVICON",
     "slug": "portfolio-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 230,
-    "timeWeek": 255,
-    "timeMonth": 255,
-    "timeYear": 255,
-    "dailyMinutesDown": {}
+    "time": 241,
+    "timeDay": 128,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
+    "dailyMinutesDown": {
+      "2022-08-11": 0
+    }
   },
   {
     "name": "Store Website",
     "url": "$STORE_URL",
     "icon": "$STORE_FAVICON",
     "slug": "store-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 282,
-    "timeWeek": 261,
-    "timeMonth": 261,
-    "timeYear": 261,
-    "dailyMinutesDown": {}
+    "time": 254,
+    "timeDay": 176,
+    "timeWeek": 254,
+    "timeMonth": 254,
+    "timeYear": 254,
+    "dailyMinutesDown": {
+      "2022-08-11": 0
+    }
   },
   {
     "name": "Developer Website",
     "url": "$DEV_URL",
     "icon": "$DEV_FAVICON",
     "slug": "developer-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 343,
-    "timeWeek": 315,
-    "timeMonth": 315,
-    "timeYear": 315,
-    "dailyMinutesDown": {}
+    "time": 302,
+    "timeDay": 179,
+    "timeWeek": 302,
+    "timeMonth": 302,
+    "timeYear": 302,
+    "dailyMinutesDown": {
+      "2022-08-11": 0
+    }
   }
 ]
