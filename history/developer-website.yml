@@ -1,7 +1,7 @@
 url: $DEV_URL
-status: up
-code: 200
-responseTime: 245
-lastUpdated: 2022-11-12T23:18:33.748Z
+status: down
+code: 530
+responseTime: 140
+lastUpdated: 2022-11-13T17:34:11.146Z
 startTime: Wed Aug 10 2022 00:21:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
