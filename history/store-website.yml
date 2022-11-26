@@ -1,7 +1,7 @@
 url: $STORE_URL
-status: up
-code: 200
-responseTime: 159
-lastUpdated: 2022-11-25T23:16:11.741Z
+status: down
+code: 530
+responseTime: 94
+lastUpdated: 2022-11-26T02:36:36.466Z
 startTime: Wed Aug 10 2022 00:21:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
