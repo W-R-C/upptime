@@ -5,18 +5,19 @@
     "icon": "$PORTFOLIO_FAVICON",
     "slug": "portfolio-website",
     "status": "down",
-    "uptime": "58.76%",
+    "uptime": "58.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "50.66%",
     "time": 222,
-    "timeDay": 55,
-    "timeWeek": 67,
-    "timeMonth": 111,
+    "timeDay": 58,
+    "timeWeek": 63,
+    "timeMonth": 107,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-10-29": 76,
+      "2023-10-30": 73,
+      "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
@@ -204,8 +205,7 @@
       "2022-11-26": 299,
       "2022-11-20": 226,
       "2022-11-13": 174,
-      "2022-11-04": 325,
-      "2022-10-30": 237
+      "2022-11-04": 325
     }
   },
   {
@@ -214,18 +214,19 @@
     "icon": "$STORE_FAVICON",
     "slug": "store-website",
     "status": "down",
-    "uptime": "59.64%",
+    "uptime": "59.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "51.74%",
     "time": 216,
-    "timeDay": 57,
-    "timeWeek": 74,
-    "timeMonth": 91,
+    "timeDay": 65,
+    "timeWeek": 69,
+    "timeMonth": 89,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2023-10-29": 76,
+      "2023-10-30": 73,
+      "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
@@ -407,8 +408,7 @@
       "2022-11-26": 29,
       "2022-11-20": 226,
       "2022-11-13": 174,
-      "2022-11-04": 325,
-      "2022-10-30": 237
+      "2022-11-04": 325
     }
   },
   {
@@ -417,18 +417,19 @@
     "icon": "$DEV_FAVICON",
     "slug": "developer-website",
     "status": "down",
-    "uptime": "59.64%",
+    "uptime": "59.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "51.74%",
     "time": 207,
-    "timeDay": 119,
-    "timeWeek": 127,
-    "timeMonth": 108,
+    "timeDay": 117,
+    "timeWeek": 114,
+    "timeMonth": 109,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2023-10-29": 76,
+      "2023-10-30": 73,
+      "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
@@ -610,8 +611,7 @@
       "2022-11-26": 29,
       "2022-11-20": 226,
       "2022-11-13": 174,
-      "2022-11-04": 325,
-      "2022-10-30": 237
+      "2022-11-04": 325
     }
   }
 ]
