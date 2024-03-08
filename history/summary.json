@@ -5,18 +5,19 @@
     "icon": "$PORTFOLIO_FAVICON",
     "slug": "portfolio-website",
     "status": "down",
-    "uptime": "45.48%",
+    "uptime": "45.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "16.62%",
+    "uptimeYear": "16.34%",
     "time": 191,
-    "timeDay": 75,
-    "timeWeek": 102,
-    "timeMonth": 103,
+    "timeDay": 36,
+    "timeWeek": 94,
+    "timeMonth": 98,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2024-03-07": 59,
+      "2024-03-08": 71,
+      "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
@@ -321,8 +322,7 @@
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
-      "2023-05-07": 392,
-      "2023-03-09": 39
+      "2023-05-07": 392
     }
   },
   {
@@ -331,18 +331,19 @@
     "icon": "$STORE_FAVICON",
     "slug": "store-website",
     "status": "down",
-    "uptime": "46.16%",
+    "uptime": "46.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "16.62%",
-    "time": 170,
-    "timeDay": 109,
-    "timeWeek": 87,
-    "timeMonth": 91,
+    "uptimeYear": "16.34%",
+    "time": 169,
+    "timeDay": 52,
+    "timeWeek": 84,
+    "timeMonth": 90,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2024-03-07": 59,
+      "2024-03-08": 71,
+      "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
@@ -647,8 +648,7 @@
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
-      "2023-05-07": 391,
-      "2023-03-09": 39
+      "2023-05-07": 391
     }
   },
   {
@@ -657,18 +657,19 @@
     "icon": "$DEV_FAVICON",
     "slug": "developer-website",
     "status": "down",
-    "uptime": "46.16%",
+    "uptime": "46.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "16.62%",
+    "uptimeYear": "16.34%",
     "time": 160,
-    "timeDay": 123,
-    "timeWeek": 96,
-    "timeMonth": 91,
+    "timeDay": 128,
+    "timeWeek": 99,
+    "timeMonth": 92,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2024-03-07": 59,
+      "2024-03-08": 71,
+      "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
@@ -973,8 +974,7 @@
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
-      "2023-05-07": 391,
-      "2023-03-09": 39
+      "2023-05-07": 391
     }
   }
 ]
